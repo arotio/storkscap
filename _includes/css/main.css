@@ -381,8 +381,8 @@ img.desaturate{
 	-webkit-filter: grayscale(100%);
 	-moz-filter: grayscale(100%);
 	filter: grayscale(100%);
-	border-radius: 50%;
-	-webkit-border-radius: 50%;
-	-moz-border-radius: 50%;
+	border-radius: 70px;
+	-webkit-border-radius: 70px;
+	-moz-border-radius: 70px;
 	
 }
