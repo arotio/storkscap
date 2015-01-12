@@ -378,5 +378,8 @@ nav ul li:hover, nav ul li.active {
 	color: #ffffff;
 }
 img.desaturate{
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
 	filter: grayscale(100%);
+	
 }
