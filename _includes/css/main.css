@@ -370,3 +370,6 @@ nav ul li:hover, nav ul li.active {
 	width: 33%;
 	display: inline-block;
 }
+.callout {
+	font-size: 2rem;
+}
