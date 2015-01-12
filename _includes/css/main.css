@@ -369,7 +369,7 @@ nav ul li:hover, nav ul li.active {
     background-color: white;
 }
 .parent .last {
-	width: auto;
+	width: 33%;
 	display: inline;
     background-color: blue;
 }
