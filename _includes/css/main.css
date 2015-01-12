@@ -369,5 +369,7 @@ nav ul li:hover, nav ul li.active {
     background-color: white;
 }
 .parent .last {
+	width: auto;
+	display: inline;
     background-color: blue;
 }
