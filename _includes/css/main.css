@@ -361,15 +361,12 @@ nav ul li:hover, nav ul li.active {
 .parent .first {
     width: 33%;
     float: left;
-    background-color: red;
 }
 .parent .middle{
 	width: 33%;
     display: inline-block;
-    background-color: white;
 }
 .parent .last {
 	width: 33%;
 	display: inline-block;
-    background-color: blue;
 }
