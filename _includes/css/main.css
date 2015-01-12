@@ -377,4 +377,3 @@ nav ul li:hover, nav ul li.active {
 	font-size: 1.25rem;
 	color: #ffffff;
 }
-img.desaturate { filter: grayscale(100%); }
