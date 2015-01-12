@@ -355,3 +355,19 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+.parent {
+    width: 100%;
+}
+.parent .first {
+    width: 33%;
+    float: left;
+    background-color: red;
+}
+.parent .middle{
+	width: 33%;
+    display: inline;
+    background-color: white;
+}
+.parent .last {
+    background-color: blue;
+}
