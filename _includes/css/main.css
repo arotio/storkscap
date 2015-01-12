@@ -336,7 +336,7 @@ nav ul li:hover, nav ul li.active {
     margin-left:-100px;
   }
   .sectiondivider img {
-    width:150px;
+    width:50%;
     height:180px;
   }
   .sectiondivider .fa-stack {
@@ -381,5 +381,8 @@ img.desaturate{
 	-webkit-filter: grayscale(100%);
 	-moz-filter: grayscale(100%);
 	filter: grayscale(100%);
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
 	
 }
